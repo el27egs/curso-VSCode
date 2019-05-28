@@ -3,6 +3,7 @@
         Comentar un bloque de código
 
     Tips:
+        Borrar lineas seleccionadas
         ⇧ ⌘ K
         Ctrl + Shift + K
 

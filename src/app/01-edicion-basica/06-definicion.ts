@@ -6,7 +6,7 @@
         Ojear definición   ⌥ F12
         Ir a la definición F12
 
-        Ojear definición   Alt + F12
+        Ojear definición   Control + F12
         Ir a la definición F12
 */
 
