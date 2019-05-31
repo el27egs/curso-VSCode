@@ -3,6 +3,8 @@
 command + P : Markdown Open Preview
 command + P : Markdown Open Preview to the side
 
+Alt + Z para quitar/aplicar wrap word
+
 Ctrl + P : Markdown Open Preview
 Ctrl + P : Markdown Open Preview to the side
 ```
