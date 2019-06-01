@@ -1,7 +1,13 @@
 
 
+export class Super {
 
+   constructor(){
+      
+   }
+}
 
+console.log('Hola Mundo');
 
 
 
